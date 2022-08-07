@@ -1,0 +1,1 @@
+![image](/assets/images/2021-11-06-kotlin-01-start/1.png){: width="30%" height="30"}{: .align-center}
